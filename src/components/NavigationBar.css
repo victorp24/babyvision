@@ -1,0 +1,16 @@
+nav.navbar, .navbar-default {
+    background-color: #2892D7 !important;
+    color: white;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-family: "Helvetica";
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-family: "Helvetica";
+}
+

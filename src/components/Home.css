@@ -1,0 +1,65 @@
+.jumbotron {
+    margin-bottom : 4em;
+    background-image:  url("opaquebaby.png");
+    background-size: cover;
+    background-color: transparent !important;
+    font-family: "Helvetica";
+    font-weight: bold;
+}
+
+#centerWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#pic1 {
+    width: 40%;
+}
+
+#pic2 {
+    width: 40%;
+}
+
+#pic3 {
+    width: 40%;
+}
+
+.sections {
+    margin-bottom: 2em;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.btn-primary {
+    background-image: none;
+    border: none;
+    border-radius: 10px;
+    background-color: #2892D7
+}
+
+
+
+h1 {
+    margin-bottom: 1em;
+    font-family: "Helvetica";
+    font-weight: bold;
+}
+
+h3 {
+    margin-top : 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+    font-family: "Helvetica";
+}
+
+#margins1 {
+    margin: 35px;
+}
+#margins2 {
+    margin: 35px;
+}
+#margins3 {
+    margin: 35px;
+}

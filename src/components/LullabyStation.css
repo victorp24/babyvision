@@ -1,0 +1,111 @@
+.container {
+    align-items: stretch;
+}
+
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+#musicHeading{
+    margin-top: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#lightsHeading{
+    margin-top: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.musicOff {
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.lightsOff {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.lsbuttons {
+    margin-top: 10px;
+}
+
+.images {
+    margin-top: 0px;
+}
+
+#songs {
+    margin: 0 auto;
+}
+
+#slider {
+    margin: 0 auto;
+}
+
+.play {
+    margin-left: 75px;
+}
+
+.tableLayout2 {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: -460px;
+}
+
+.tableLayout1 {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: -475px;
+}
+
+.tableLayout3 {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.stock {
+    width: 100px;
+    height: 100px;
+}
+
+.btn-primary {
+    border-radius: 10px;
+}
+
+.songbutton {
+    float: right;
+    height: 36px;
+}
+
+.btn-danger {
+    border-radius: 10px;
+}
+
+#off {
+    padding: 15px 20px;
+}
+
+#lsb{
+    width: 100px;
+    height: 70px;
+}
+
+.list-group {
+    width: 50vw;
+    border-radius: 20px;
+}
+
+#marginTop {
+    margin-top: 0.75vw;
+    margin-right: 1vw;
+}
+
+.rangeslider-horizontal{
+    width: 50vw;
+}

@@ -1,0 +1,37 @@
+.image {
+    margin-top: 10px;
+    width: 500px;
+    height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#photoHeading1 {
+    margin-top : 20px;
+    margin-bottom : 20px;
+    margin-left : 20px;
+    margin-right : 20px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#photoHeading2 {
+    margin-top : 20px;
+    margin-bottom : 20px;
+    margin-left : 20px;
+    margin-right : 20px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#marginLeft {
+    margin-left: 10px;
+}
+
+.sensors {
+    margin-top : 40px;
+    margin-bottom : 40px;
+}
